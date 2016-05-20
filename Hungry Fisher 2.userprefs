@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fish/FishBeingThreaten.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fish/FishJump.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/Fish/FishThreatenOthers.cs" Line="57" Column="4" />
+      <File FileName="Assets/Scripts/Fish/FishSwim.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/Fish/MotivePower/PlayerControl.cs" Line="58" Column="3" />
+      <File FileName="Assets/Scripts/Fish/MotivePower/Straight.cs" Line="27" Column="3" />
+      <File FileName="Assets/Scripts/Fish/FishBeingThreaten.cs" Line="11" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hungry Fisher 2" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Fish" expanded="True">
+                  <Node name="FishBeingThreaten.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Hungry Fisher 2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
