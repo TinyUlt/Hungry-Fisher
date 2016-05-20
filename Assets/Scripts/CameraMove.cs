@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//test
 public class CameraMove : MonoBehaviour {
 
 	public GameObject followObj;
